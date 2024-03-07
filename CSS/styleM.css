@@ -1,0 +1,17 @@
+.contenido {
+    padding: 30px 1px;
+}
+
+.imagen img {
+    margin-bottom: 10px;
+}
+
+.botones {
+    gap: 12px;
+    width: 260px;
+
+}
+
+.botones button {
+    padding: 13px 20px;
+}
